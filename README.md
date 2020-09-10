@@ -1,10 +1,3 @@
-<style>
-   @import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:ital,wght@1,300&display=swap');
-    *{
-        font-family: 'Open Sans Condensed', sans-serif;
-    }
-</style>    
-
 <h1 align="center">
     Promises
 </h1>
